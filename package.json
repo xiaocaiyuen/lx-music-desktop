@@ -179,7 +179,7 @@
     "bufferutil": "^4.0.7",
     "comlink": "~4.3.1",
     "crypto-js": "^4.1.1",
-    "electron-font-manager": "github:lyswhut/electron-font-manager#6d2f5ecf850c4fe34812b9394913680462ee0dae",
+    "electron-font-manager": "github:xiaocaiyun/electron-font-manager#6d2f5ecf850c4fe34812b9394913680462ee0dae",
     "electron-log": "^5.0.0-rc.1",
     "electron-store": "^8.1.0",
     "font-list": "^1.5.1",
